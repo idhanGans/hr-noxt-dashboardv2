@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+.gitignore
+npm-debug.log*
+.claude
+.mcp.json
+.cp-traces
+docs
+*.tar.gz
+*.jpeg
+*.png
+.playwright-mcp
+README.md
+findings.md
+.env*

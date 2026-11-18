@@ -1,0 +1,31 @@
+// Abteilungen & Titel (Organisationseinheiten) — DE/EN.
+export const org = {
+  de: {
+    "org.title": "Abteilungen & Titel",
+    "org.subtitle": "Organisationseinheiten verwalten — nur für Manager.",
+    "org.departments": "Abteilungen",
+    "org.titles": "Jobtitel",
+    "org.placeholder": "Name …",
+    "org.add": "Hinzufügen",
+    "org.empty": "Noch keine Einträge.",
+    "org.deniedTitle": "Kein Zugriff",
+    "org.deniedDesc": "Diese Verwaltung ist nur für Manager verfügbar.",
+    "org.toastAdded": "„{name}“ hinzugefügt",
+    "org.toastRemoved": "„{name}“ entfernt",
+    "org.toastRenamed": "Umbenannt in „{name}“",
+  },
+  en: {
+    "org.title": "Departments & Titles",
+    "org.subtitle": "Manage organizational units — managers only.",
+    "org.departments": "Departments",
+    "org.titles": "Job titles",
+    "org.placeholder": "Name …",
+    "org.add": "Add",
+    "org.empty": "No entries yet.",
+    "org.deniedTitle": "No access",
+    "org.deniedDesc": "This management area is for managers only.",
+    "org.toastAdded": "“{name}” added",
+    "org.toastRemoved": "“{name}” removed",
+    "org.toastRenamed": "Renamed to “{name}”",
+  },
+};
